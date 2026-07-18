@@ -38,8 +38,20 @@ refutation.
 
 ---
 
+### Upstream review
+
+<!-- REVIEWS:START -->
+
+_No upstream reviews recorded yet._
+
+<!-- REVIEWS:END -->
+
+<sub>Auto-updated weekly from the GitHub API.</sub>
+
+---
+
 ### Currently
 
 Open to **remote or contract** work in blockchain security, forensics, and applied cryptography.
 
-📧 mohd.fadel@ymail.com
+📧 mnfadel@proton.me
