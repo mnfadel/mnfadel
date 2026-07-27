@@ -42,7 +42,9 @@ refutation.
 
 <!-- REVIEWS:START -->
 
-_No upstream reviews recorded yet._
+**[bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)**
+
+- [#1890](https://github.com/bitcoin-core/secp256k1/pull/1890) — nonce: terminate RFC6979 loop at UINT_MAX `merged`
 
 <!-- REVIEWS:END -->
 
