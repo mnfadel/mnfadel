@@ -1,6 +1,6 @@
 # Mohamad Fadel
 
-**Founder of [MyAi](https://mnfadel.github.io/)**, an AI assistant for Oracle Fusion Cloud ERP.
+**Founder of [MyAi](https://myaiapps.xyz/)**, an AI assistant for Oracle Fusion Cloud ERP.
 
 Finance teams ask questions in plain language and get answers, tables and Excel files from their own Oracle data. Each person signs in to Oracle as themselves, access is read-only, and answers rest only on figures Oracle returned. MyAi runs inside Claude as a connector, in the browser, or self-hosted on a company's own servers. Version 1.0 was released in October 2026.
 
